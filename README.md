@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willi8m
 - 👀 I’m interested in everything programming :D 
 - 🌱 I’m currently learning Python...
-- 💞️ I’m looking to collaborate on (possibly) game development or a financial data tracking project $
+- 💞️ I’m looking to collaborate on practically anything 
 - 📫 Reach me @chopinfanboy on instagram
 
 <!---
