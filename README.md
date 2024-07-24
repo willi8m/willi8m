@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willi8m
 - 👀 I’m interested in everything programming :D 
-- 🌱 I’m currently learning Java, HTML + CSS, and Javascript...
-- 💞️ I’m looking to collaborate on practically anything 
+- 🌱 I’m currently learning React and Next.js...
+- 💞️ I currently have bonds with Python, Java, R, and HTML/CSS :D
 
 
 <!---
